@@ -1,0 +1,41 @@
+1 - Énoncé: 
+	Et spes…: Composition polyphonique basée sur objets sonores complexes et toniques
+
+2 - Description: 
+	C’est une composition ‘à programme’, d’une durée entre 5 et 10 minutes.
+	Elle représente un aspect de la relation entre les humains et les éléments 
+	de la Nature: Terre, Eau, Feu et Air (TEFA), voire Annexe-Mon Projet. L’espoir 
+	de développer un dialogue harmonieux est au coeur de l’oeuvre. La composition, 
+	construite entièrement par synthèse sonore prendra la forme d’un programme 
+	informatique (‘script’ Python) et d’un fichier audio obtenu comme réalisation du programme.
+
+3 - Analyse des besoins:
+	a) Objets sonores de masse complexe: Obtenus par synthèse	
+	b) Objets sonores de masse tonique: Obtenus utilisant MIDI.
+	c) Gestion du développement temporel: Bloque de code nommé ‘Partition’.
+	d) Mode de jeu: execution directe du programme (script Python) et/ou écoute du fichier sonore.
+	e) Sauvegarde: Script conservé en GitHub, et fichier sonore mp3 ou wav (ou autre).
+
+4 - Acquisition de connaissances:
+	1. Recherche sur la synthèse de sons ‘naturels’ (objets de masse complexe)
+	2. Recherche sur les sources de certains chants (grégorien, folklore napolitain, mantras tibétains)
+	3. Recherche sur les timbres des objets toniques et sur l’interaction desdits objets avec les objets complexes
+	Références: 
+	- P. Schaefer (1966) Traité des Objets Sonores, Le Seuil.
+	- D. S. Demers (2009) Trois compositions…Thèse, UdeM
+	- C. Roads et J. de Reydellet (2016) L’audionumérique,Dunod
+	- G. Loy (2006) Musimathics, MIT Press
+	- A. Farnell (2010) Designing Sound. MIT Press				
+
+5 - Modèle:
+	Les éléments seront représentés par des objets sonores de masse complexe;
+	l’humain, par des objets sonores de masse toniques, extrait de chants bien connus
+	de tradition chrétienne et bouddhiste. Les objets sonores 
+	seront engendrés par des bloques de code (probablement des Classes) 
+	dans un language orienté-objet. Un bloque clairement identifiable, appelé 
+	‘Partition’, aura la fonction de diriger le déroulement temporelle de la composition.
+
+6 - Implémentation:
+
+
+8 - Test et maintenance:
