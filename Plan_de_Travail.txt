@@ -39,3 +39,18 @@
 
 
 8 - Test et maintenance:
+
+############## Commentaires ##############
+
+Excellent projet!
+
+Dans les exemples des sources de pyo, il serait bien d'étudier les sections 03-generators, 05-envelopes et 09-callbacks, il y a plusieurs bonnes pistes pour la construction d'instrument et la gestion des événements dans le temps.
+
+https://github.com/belangeo/pyo/tree/master/pyo/examples/03-generators
+
+https://github.com/belangeo/pyo/tree/master/pyo/examples/05-envelopes
+
+https://github.com/belangeo/pyo/tree/master/pyo/examples/09-callbacks
+
+10/10
+
