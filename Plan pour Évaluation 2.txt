@@ -1,0 +1,32 @@
+
+
+
+1. Progrès:
+	a) Collection de matériaux sonores toniques: 
+		—Grégorien (phrases sélectionnées): Salve Regina, Ave Maris Stella; 
+		—Chant Populaire Méditerranéen: Ave Maria Procidana; 
+		—Mantra Tibétain: OmTareTuttare.
+	b) Transcription du matériau en Finale, avec sons Garritan qui aproximent (à 60-70%) ) les sonorités recherchées.
+	c) Construction de classes (Python) pour:
+		—2 voix: Soprano, Alto;
+		—2 instruments: Trompe tibétaine (ou cor des alpes), Percussion tonique (gamelan ou cloche de vache);
+		—1 Organum: ceci peut-être vu comme faisant le pont entre les sons toniques et les sons environnementaux (représentant l’élément Terre) 
+	d) Constructions de 5 fonctions (Python) qui vont devenir des classes, après discussion/reflexion:
+		—Salve Regina: jouant 7 phrases
+		—Ave Maris Stella: jouant 4 phrases
+		—Ave Maria Procidana: jouant 2-5 phrases
+		—OmTareTuttare: 1 phrase mais à différentes vitesses. Possibilité d’utiliser ‘random’ ou Markov chain
+		—Organum
+
+2. Problèmes à résoudre: 
+		
+	a) Construction de la source pour chaque instrument.
+	b) Comment développer l’ensemble des classes pour les sons toniques: une pour chaque groupe de phrases (correspondant aux 5 fonction en d)), ou bien une pour chaque phrases (14–17)? 
+	c) Comment procéder pour les sons environnementaux? Une classe pour chaque élément (Terre, Eau, Feu, Air) qui joue plusieurs aspects de l’élément (e.g. Eau tranquille, agitée, en tempête), ou une pour chaque aspect?
+	d) Comment organiser le déroulement temporelle.
+	e) Comment organiser la polyphonie? Utilisant ’Channels’, ou autre? Utiliser ou non la panoramisation?
+
+NOTE: J’attache un exemple de mon travail à date sous forme de script Python: ProjectLab1, contenant ma tentative de construire la classe AveMarisStella, ainsi que l’InstrumentAlto…
+QUESTION: Quoi soumettre pour l’évaluation? Une élaboration de ça? Ajoutant en annexe une partie ou tous les scripts élaborer à date? Une version ‘universelle’ de mes fichier Finale?
+
+
