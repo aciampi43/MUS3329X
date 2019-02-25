@@ -1,0 +1,42 @@
+
+
+1. Progrès: 
+	##Pour le moment je me suis limité aux sons toniques##
+	a) Collection de matériaux sonores toniques-4 chants:
+		—Grégorien (phrases sélectionnées): Salve Regina, Ave Maris Stella; 
+		—Chant Populaire Méditerranéen: Ave Maria Procidana; 
+		—Mantra Tibétain: OmTareTuttare.
+	b) Transcription du matériau en Finale, avec sons Garritan qui aproximent (à 			   60-70%) ) les 		   sonorités recherchées.
+	c) Construction de classes (Python) correspondant à:
+		—2 instruments voix: Soprano, Alto;
+		—2 instruments: Chor(ou trompe tibétaine), Cloche (ou percussion tonique 		 type gamelan);
+                -Partitions, une pour chaque voix/instrument et une Partition globale
+		
+	d) Élaboration de 4 Scripts (Python) qui 'jouent' les 4 chants:		
+		—Salve Regina: jouant 7 phrases
+		—Ave Maris Stella: jouant 4 phrases
+		—Ave Maria Procidana: jouant 2 phrases
+		—OmTareTuttare: 1 phrase (éventuellement à différentes vitesses). 
+	
+	##COMPLÉTÉ!##
+	
+NOTE: L'idée d'un Organum est toujours là, mais je pense que ça va faire le ponts 		
+        entre les deux famille de sons et il représentera l'élément Terre (qui va être 	
+        tonique)
+
+
+2. Problèmes à résoudre: 
+		
+	a) Construction de la source pour chaque instrument.
+ 	c) Développement de classes pour les sons environnementaux: je pense pour le moment à une 	   classe pour chaque élément (Terre, Eau, Feu, Air) qui joue plusieurs aspects de l’élément   	   (e.g. Eau tranquille, agitée, en tempête...).
+	d) Comment organiser le déroulement temporelle.
+	e) Comment organiser la polyphonie? Utilisant ’Channels’, ou autre? Utiliser ou non la 		   panoramisation?
+
+3. Stratégie pour les deux prochaine semaines: 
+	Compléter une première version de la partition globale qui joue l'ensemble des sons toniques
+	(voir graphique globale soumis au début du projet).
+ 						   
+
+
+NOTE: J’attache: 1) un fichier 'Library' contenant toutes les classes sauf la Partition globale
+		 2) J'attache les 4 scripts qui 'jouent'
